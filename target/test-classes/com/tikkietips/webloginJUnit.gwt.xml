@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+  <!-- Inherit our applications main module.                      -->
+  <inherits name='com.tikkietips.weblogin' />
+
+  <!-- Specify the path to any remote services.                   -->
+  <servlet path="/weblogin/greet" class="com.tikkietips.server.GreetingServiceImpl" />
+
+</module>

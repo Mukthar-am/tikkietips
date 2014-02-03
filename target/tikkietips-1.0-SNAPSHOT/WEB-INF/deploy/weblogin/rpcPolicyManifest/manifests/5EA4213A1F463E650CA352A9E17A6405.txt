@@ -1,0 +1,2 @@
+serviceClass: com.tikkietips.client.GreetingService
+path: 08ED89E4D9667BE4FAAA748C2051FC69.gwt.rpc
